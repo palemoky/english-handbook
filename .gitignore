@@ -1,0 +1,30 @@
+# Zensical
+site/
+.cache/
+
+# Python
+.venv/
+__pycache__/
+main.py
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Office
+~$*
+
+# Env
+.env
+
+# Temporary files
+*.tmp
+*.temp
