@@ -1,0 +1,150 @@
+[project]
+nav = [
+  { "首页" = "index.md" },
+  { "发音" = [
+    { "发音概览" = "pronunciation/README.md" },
+    { "国际音标" = "pronunciation/ipa/README.md" },
+    { "单词重音" = "pronunciation/stress/README.md" },
+    { "连读与弱读" = "pronunciation/connected-speech/README.md" },
+    { "语调与节奏" = "pronunciation/intonation/README.md" },
+  ] },
+  { "语法" = [
+    { "语法概览" = "grammar/README.md" },
+    { "句子结构" = [
+      { "句子成分" = "grammar/sentence-elements/README.md" },
+      { "五大基本句型" = "grammar/sentence-patterns/README.md" },
+    ] },
+    { "动词体系" = [
+      { "时态" = "grammar/tenses/README.md" },
+      { "语态" = "grammar/voice/README.md" },
+      { "情态动词" = "grammar/modals/README.md" },
+      { "非谓语动词" = "grammar/non-finite/README.md" },
+      { "虚拟语气" = "grammar/subjunctive/README.md" },
+    ] },
+    { "复合句" = [
+      { "定语从句" = "grammar/clauses/relative.md" },
+      { "名词性从句" = "grammar/clauses/nominal.md" },
+      { "状语从句" = "grammar/clauses/adverbial.md" },
+    ] },
+    { "特殊句式" = "grammar/special-sentences/README.md" },
+    { "词类" = [
+      { "动词" = "grammar/parts-of-speech/verb.md" },
+      { "名词" = "grammar/parts-of-speech/noun.md" },
+      { "代词" = "grammar/parts-of-speech/pronoun.md" },
+      { "形容词与副词" = "grammar/parts-of-speech/adj-adv.md" },
+      { "介词" = "grammar/parts-of-speech/preposition.md" },
+      { "连词" = "grammar/parts-of-speech/conjunction.md" },
+      { "冠词" = "grammar/parts-of-speech/article.md" },
+      { "数词" = "grammar/parts-of-speech/numeral.md" },
+    ] },
+  ] },
+  { "词汇" = [
+    { "词汇概览" = "vocabulary/README.md" },
+    { "构词法" = [
+      { "前缀" = "vocabulary/prefix/README.md" },
+      { "后缀" = "vocabulary/suffix/README.md" },
+      { "词根" = "vocabulary/root/README.md" },
+    ] },
+    { "固定搭配" = "vocabulary/collocations/README.md" },
+    { "短语动词" = "vocabulary/phrasal-verbs/README.md" },
+    { "易混词辨析" = "vocabulary/confusables/README.md" },
+  ] },
+  { "应用" = [
+    { "应用概览" = "skills/README.md" },
+    { "听力" = "skills/listening/README.md" },
+    { "口语" = "skills/speaking/README.md" },
+    { "阅读" = "skills/reading/README.md" },
+    { "写作" = "skills/writing/README.md" },
+  ] },
+]
+site_name = "English Handbook"
+site_description = "English Handbook by Palemoky"
+site_author = "Palemoky"
+site_url = "https://english.palemoky.com"
+repo_url = "https://github.com/palemoky/english-handbook"
+repo_name = "palemoky"
+edit_uri = "edit/main/docs/"
+copyright = "Copyright &copy; <span id='copyright-year'>2026</span> Palemoky"
+extra_javascript = [
+  "assets/javascripts/mathjax.js",
+  "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js",
+  "assets/javascripts/width-toggle.js",
+]
+extra_css = ["assets/stylesheets/extra.css"]
+
+[project.theme]
+variant = "modern"
+language = "zh"
+primary = "white"
+accent = "blue"
+custom_dir = "overrides"
+favicon = "assets/logo.webp"
+logo = "assets/logo.webp"
+features = [
+  "announce.dismiss",
+  "content.action.edit",
+  "content.action.view",
+  "content.code.annotate",
+  "content.code.copy",
+  "content.tooltips",
+  "content.footnote.tooltips",
+  "navigation.expand",
+  "navigation.indexes",
+  "navigation.instant",
+  "navigation.instant.progress",
+  "navigation.path",
+  "navigation.sections",
+  "navigation.tabs",
+  "navigation.top",
+  "navigation.tracking",
+  "search.highlight",
+  "search.share",
+  "search.suggest",
+  "toc.follow",
+]
+
+icon = { repo = "fontawesome/brands/github", edit = "lucide/file-edit" }
+palette = [
+  { scheme = "default", toggle.icon = "lucide/sun", toggle.name = "Switch to dark mode" },
+  { scheme = "slate", toggle.icon = "lucide/moon", toggle.name = "Switch to light mode" },
+]
+
+[project.markdown_extensions]
+attr_list = {}
+md_in_html = {}
+tables = {}
+admonition = {}
+footnotes = {}
+abbr = {}
+def_list = {}
+toc.permalink = true
+toc.slugify = { object = "pymdownx.slugs.slugify", kwds = { case = "lower" } }
+
+[project.markdown_extensions.zensical.extensions.glightbox]
+
+[project.markdown_extensions.pymdownx]
+arithmatex = { generic = true }
+betterem = { smart_enable = "none" }
+caret = {}
+details = {}
+emoji = { emoji_generator = "zensical.extensions.emoji.to_svg", emoji_index = "zensical.extensions.emoji.twemoji" }
+highlight.pygments_lang_class = true
+inlinehilite = {}
+keys = {}
+mark = {}
+smartsymbols = {}
+superfences = {}
+tabbed = { alternate_style = true }
+tasklist = { custom_checkbox = true }
+tilde = {}
+magiclink = {}
+blocks.caption = {}
+
+[project.extra]
+generator = false
+social = [
+  { icon = "fontawesome/brands/github", link = "https://github.com/palemoky" },
+  { icon = "fontawesome/solid/code", link = "https://algo.palemoky.com" },
+  { icon = "fontawesome/solid/feather", link = "https://poetry.palemoky.com" },
+  { icon = "fontawesome/solid/feather-pointed", link = "https://blog.palemoky.com" },
+]

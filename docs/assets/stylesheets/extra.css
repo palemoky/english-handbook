@@ -1,0 +1,241 @@
+/* ==========================================================================
+   1. 性能优化 (Performance & Critical CSS)
+   ========================================================================== */
+
+/* 字体加载优化：使用 swap 避免不可见文本 */
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("Roboto"), local("Roboto-Regular");
+}
+
+/* 关键渲染：设置备用字体集 */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* 硬件加速：优化滚动和头部渲染 */
+.md-header { will-change: transform; }
+.md-content { -webkit-overflow-scrolling: touch; }
+
+/* 懒加载占位动画 */
+img[loading="lazy"] {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+/* ==========================================================================
+   2. 核心排版：Figure & Image Captions
+   ========================================================================== */
+
+/* 通用 Figure 结构 */
+.md-typeset figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0.6em auto;
+  padding: 0;
+  width: fit-content;
+  text-align: center;
+}
+
+.md-typeset figure img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.md-typeset figcaption {
+    margin: 0.2em auto;
+    line-height: 1.4;
+    color: var(--md-default-fg-color--light);
+    font-size: 14px;
+}
+
+/* 移除 Markdown 渲染带来的干扰节点 */
+.md-typeset figure > p { margin: 0; }
+.md-typeset figure br { display: none; }
+
+/* Lightbox image background for different color schemes */
+.gslide-image img {
+  background-color: white;
+}
+
+/* [data-md-color-scheme="slate"] .gslide-image img {
+  background-color: #1e1e1e;
+} */
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color:             hsla(var(--md-hue), 15%, 21%, 1);
+  --md-default-bg-color--light:      hsla(var(--md-hue), 15%, 21%, 0.54);
+  --md-default-bg-color--lighter:    hsla(var(--md-hue), 15%, 21%, 0.26);
+  --md-default-bg-color--lightest:   hsla(var(--md-hue), 15%, 21%, 0.07);
+
+  --md-code-bg-color:                hsla(var(--md-hue), 15%, 27%, 1);
+  --md-code-bg-color--light:         hsla(var(--md-hue), 15%, 27%, 0.9);
+  --md-code-bg-color--lighter:       hsla(var(--md-hue), 15%, 27%, 0.54);
+
+  --md-footer-bg-color:              hsla(var(--md-hue), 15%, 16%, 0.87);
+  --md-footer-bg-color--dark:        hsla(var(--md-hue), 15%, 14%, 1);
+}
+
+/* ==========================================================================
+   3. 增强组件：Grid Cards (卡片布局)
+   ========================================================================== */
+
+/* 1. 强制让 li 成为 Flex 容器，并撑开高度 */
+.grid.cards ul li {
+    display: flex !important;
+    flex-direction: column;
+    padding: 16px; 
+    height: 100%;            
+}
+
+/* 2. 让 figure 撑满 li 的剩余空间 */
+.md-typeset .grid.cards figure {
+    display: flex;
+    flex-direction: column;
+    flex: 1;                  /* 核心：占据 li 的所有高度 */
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+/* 3. 图片容器：通过 flex-grow 和 margin 实现垂直居中 */
+.md-typeset .grid.cards figure img {
+    flex: 1;                  /* 占据上方所有可用空间 */
+    object-fit: contain;      /* 保持比例 */
+    width: 100%;
+    margin-top: auto;         /* 配合下方 margin 实现垂直对齐 */
+    margin-bottom: auto;
+    display: block;
+}
+
+/* 4. 说明文字：推到底部并清除底部间距 */
+.md-typeset .grid.cards figure figcaption {
+    margin-top: auto;         /* 核心：将自己推到容器最底部 */
+    padding-top: 15px;        /* 与上方图片区域保持固定间距 */
+    margin-bottom: 0;         /* 移除底部边距，让卡片整洁 */
+    flex-shrink: 0;           /* 防止文字被压缩 */
+    text-align: center;
+}
+
+/* 如果 li 下面还有除了 figure 之外的其他元素（如 .card-footer） */
+.grid.cards ul li > :last-child {
+    margin-top: auto;
+}
+
+/* ==========================================================================
+   4. UI 特效与交互 (Code Blocks & Tooltips)
+   ========================================================================== */
+
+/* Target the outer container with BOTH language-xxx AND highlight classes */
+div[class*="language-"].highlight {
+  position: relative;
+}
+
+/* Language label using ::after pseudo-element */
+div[class*="language-"].highlight::after {
+  position: absolute;
+  right: 2.8em;
+  top: 0.6em;
+  font-size: 0.65rem;
+  font-weight: 500;
+  color: var(--md-code-fg-color);
+  opacity: 0.5;
+  pointer-events: none;
+  z-index: 2;
+}
+
+/* Language-specific labels */
+div.language-go.highlight::after { content: "Go"; }
+div.language-python.highlight::after { content: "Python"; }
+div.language-java.highlight::after { content: "Java"; }
+div.language-rust.highlight::after { content: "Rust"; }
+div.language-cpp.highlight::after { content: "C++"; }
+div.language-c.highlight::after { content: "C"; }
+div.language-javascript.highlight::after { content: "JS"; }
+div.language-typescript.highlight::after { content: "TS"; }
+div.language-bash.highlight::after { content: "Bash"; }
+div.language-shell.highlight::after { content: "Shell"; }
+div.language-sql.highlight::after { content: "SQL"; }
+div.language-yaml.highlight::after { content: "YAML"; }
+div.language-json.highlight::after { content: "JSON"; }
+div.language-markdown.highlight::after { content: "Markdown"; }
+div.language-html.highlight::after { content: "HTML"; }
+div.language-css.highlight::after { content: "CSS"; }
+
+/* 自定义宽度切换按钮 & Tooltip */
+/* 仅在屏幕宽度明显大于正常内容宽度时显示（≥ 1440px） */
+.width-toggle-btn { display: none; cursor: pointer; position: relative; }
+
+@media (min-width: 1440px) {
+  .width-toggle-btn { display: inline-flex; }
+}
+
+.width-toggle-btn svg { color: var(--md-default-fg-color); }
+[data-md-color-scheme="slate"] .width-toggle-btn svg { color: #E2E4E9D1; }
+
+.width-toggle-btn::after {
+  content: attr(aria-label);
+  position: absolute;
+  top: 110%;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 4px 10px;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-radius: 4px;
+  font-size: 12px;
+  white-space: nowrap;
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.2s;
+  z-index: 100;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+.width-toggle-btn:hover::after { opacity: 1; visibility: visible; }
+
+/* ==========================================================================
+   5. 布局增强 (Table & Wide Screen)
+   ========================================================================== */
+
+/* 表格单元格边框（确保 rowspan/colspan 单元格也有分隔线） */
+.md-typeset table:not([class]) {
+  border-collapse: collapse;
+}
+
+.md-typeset table:not([class]) :is(td, th) {
+  border: 1px solid var(--md-typeset-table-color);
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--md-default-fg-color--lightest);
+}
+
+/* 表格跨行内容居中 */
+.md-typeset table :is(td, th)[rowspan] {
+  vertical-align: middle !important;
+}
+
+/* 宽屏模式切换逻辑（仅在 ≥ 1440px 时生效，防止移动端误触发） */
+@media (min-width: 1440px) {
+  [data-wide-screen="true"] .md-sidebar { display: none !important; }
+  [data-wide-screen="true"] .md-grid {
+    max-width: 85% !important;
+    margin: 0 auto !important;
+  }
+  [data-wide-screen="true"] .md-content { margin: 0 !important; }
+}
+
+/* 清除浮动辅助 */
+h2, h3, h4, h5, h6 { clear: both; }
