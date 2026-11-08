@@ -1,23 +1,6 @@
 # 动词
 
-## 分类
-
-| 类别 | 说明 | 示例 |
-| --- | --- | --- |
-| 及物动词 | 后面需要接宾语 | I **love** music. |
-| 不及物动词 | 后面不接宾语 | The baby **cried**. |
-| 系动词 | 连接主语和表语，作用类似编程中的赋值：把后面的内容“赋给”主语 | She **is** a teacher. / It **looks** good. |
-| 助动词、情态动词 | 帮助谓语动词表达时态、语态、语气，见[情态动词](../verbs/modals.md) | I **can** swim. |
-| 使役动词 | 让某人做某事 | 见下表 |
-
-使役动词：
-
-| 动词 | 含义 | 示例 |
-| --- | --- | --- |
-| make | 迫使……做…… | She made me cry. |
-| have | 给……任务/责任 | I'll have him call you back. |
-| get | 说服/鼓励……做…… | I got him to help me. |
-| let | 允许……做…… | Let me help you. |
+本页讲动词的 **词形变化**：人称变化、第三人称单数、-ing 形式、过去式和过去分词。动词的分类和用法见[动词体系](../verbs/README.md)。
 
 ## be、have、do 的人称变化 {#be-have-do}
 
@@ -60,6 +43,8 @@
 
 - The cat runs. / The cats run.
 - He likes apples. / They like apples.
+
+主语和谓语在人称、数上的更多搭配规则见[主谓一致](../sentence-structure/agreement.md)。
 
 ## 现在分词和动名词
 

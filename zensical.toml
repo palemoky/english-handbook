@@ -15,6 +15,18 @@ nav = [
       { "句子成分" = "grammar/sentence-structure/elements.md" },
       { "五大基本句型" = "grammar/sentence-structure/patterns.md" },
       { "句子类型" = "grammar/sentence-structure/types.md" },
+      { "主谓一致" = "grammar/sentence-structure/agreement.md" },
+    ] },
+    { "词类" = [
+      { "词类概览" = "grammar/parts-of-speech/README.md" },
+      { "动词" = "grammar/parts-of-speech/verb.md" },
+      { "名词" = "grammar/parts-of-speech/noun.md" },
+      { "代词" = "grammar/parts-of-speech/pronoun.md" },
+      { "形容词与副词" = "grammar/parts-of-speech/adj-adv.md" },
+      { "介词" = "grammar/parts-of-speech/preposition.md" },
+      { "连词" = "grammar/parts-of-speech/conjunction.md" },
+      { "冠词" = "grammar/parts-of-speech/article.md" },
+      { "数词" = "grammar/parts-of-speech/numeral.md" },
     ] },
     { "动词体系" = [
       { "动词体系概览" = "grammar/verbs/README.md" },
@@ -31,17 +43,6 @@ nav = [
       { "状语从句" = "grammar/clauses/adverbial.md" },
     ] },
     { "特殊句式" = "grammar/special-sentences/README.md" },
-    { "词类" = [
-      { "词类概览" = "grammar/parts-of-speech/README.md" },
-      { "动词" = "grammar/parts-of-speech/verb.md" },
-      { "名词" = "grammar/parts-of-speech/noun.md" },
-      { "代词" = "grammar/parts-of-speech/pronoun.md" },
-      { "形容词与副词" = "grammar/parts-of-speech/adj-adv.md" },
-      { "介词" = "grammar/parts-of-speech/preposition.md" },
-      { "连词" = "grammar/parts-of-speech/conjunction.md" },
-      { "冠词" = "grammar/parts-of-speech/article.md" },
-      { "数词" = "grammar/parts-of-speech/numeral.md" },
-    ] },
   ] },
   { "词汇" = [
     { "词汇概览" = "vocabulary/README.md" },
@@ -62,6 +63,7 @@ nav = [
     { "阅读" = "skills/reading/README.md" },
     { "写作" = "skills/writing/README.md" },
   ] },
+  { "术语表" = "glossary.md" },
 ]
 site_name = "English Handbook"
 site_description = "English Handbook by Palemoky"

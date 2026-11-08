@@ -28,4 +28,33 @@
 | 复杂及物动词 | 主语 + 动词 + 宾语 + 宾语补足语 |
 | 系动词 | 主语 + 系动词 + 表语（主语补足语） |
 
+谓语动词后面需要接宾语的叫 **及物动词**（I love music.），不需要的叫 **不及物动词**（The baby cried.）。同一个动词常常兼有两种用法，如 She sings.（不及物）/ She sings a song.（及物）。
+
+### 系动词
+
+系动词连接主语和表语，本身意思很弱，作用类似编程中的赋值：把后面的内容“赋给”主语。
+
+| 类别 | 系动词 | 示例 |
+| --- | --- | --- |
+| 状态 | be | She is a teacher. |
+| 感官 | look、sound、smell、taste、feel | It looks good. / The soup tastes delicious. |
+| 表象 | seem、appear | He seems tired. |
+| 变化 | become、get、turn、grow、go | It's getting dark. / The leaves turned yellow. |
+| 保持 | keep、stay、remain | Keep calm. |
+
+系动词后面接形容词，而不是副词：It sounds **good**. ✓ / It sounds well. ✗
+
+### 使役动词
+
+使役动词表示“让某人做某事”，后面接宾语 + 动词原形（get 后接 to do）：
+
+| 动词 | 含义 | 示例 |
+| --- | --- | --- |
+| make | 迫使……做…… | She made me cry. |
+| have | 安排、委托……做…… | I'll have him call you back. |
+| get | 说服、促使……做…… | I got him to help me. |
+| let | 允许……做…… | Let me help you. |
+
+## 时间与状态
+
 谓语动词通过变化 **时间**（现在、过去、将来、过去将来）和 **状态**（一般、进行、完成、完成进行）组合出 4 × 4 = 16 种[时态](tenses.md)。

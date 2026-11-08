@@ -25,6 +25,18 @@
 
 各词类的详细用法见[词类](parts-of-speech/README.md)。
 
+## 阅读顺序
+
+导航中的章节按推荐的学习顺序排列：
+
+1. [句子结构](sentence-structure/README.md)：先搭起句子的骨架
+2. [词类](parts-of-speech/README.md)：了解每类词的形式和用法
+3. [动词体系](verbs/README.md)：时态、语态、情态动词等动词的变化
+4. [复合句](clauses/README.md)：用从句把简单句组合成长句
+5. [特殊句式](special-sentences/README.md)：倒装、强调等变化
+
+初学者不必一次读完，可以参考首页的[学习路线](../index.md#学习路线)分阶段学习。遇到看不懂的术语，可以查[术语表](../glossary.md)。
+
 ## 学习资料
 
 - 语法视频：[YouTube 播放列表](https://www.youtube.com/playlist?list=PLOpAkg9PBnTWA8fP-f9hy2f-iohWvsIjd)、[哔哩哔哩](https://www.bilibili.com/video/BV1Z4411C7jG)
