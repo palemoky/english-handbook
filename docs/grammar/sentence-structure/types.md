@@ -14,18 +14,42 @@
 
 陈述事实或观点，分为肯定句和否定句。
 
+把肯定句变成否定句，关键看谓语里有没有 be 动词、助动词或情态动词：
+
+| 谓语 | 方法 | 肯定句 → 否定句 |
+| --- | --- | --- |
+| 含 be 动词 | be 后加 not | He is a student. → He **isn't** a student. |
+| 含助动词或情态动词 | 第一个助动词或情态动词后加 not | I can swim. → I **can't** swim.<br>She has finished. → She **hasn't** finished. |
+| 只有实义动词 | 加 do / does / did + not，实义动词还原为原形 | I like tea. → I **don't like** tea.<br>He likes tea. → He **doesn't like** tea.<br>He went home. → He **didn't go** home. |
+
+- doesn't、didn't 后面的动词一定用原形：He doesn't like tea. ✓ / He doesn't likes tea. ✗
+- 肯定句中的 some 在否定句中通常改为 any：I have some money. → I don't have any money.
+- 常用缩写：isn't、aren't、wasn't、weren't、don't、doesn't、didn't、can't、won't（will not）、haven't、hasn't。
+
 ### 疑问句
 
 #### 一般疑问句
 
-可以用 yes / no 回答。陈述句的谓语是 be 动词或含有助动词、情态动词时，把它们提到句首；否则用 do / does / did 提问。
+可以用 yes / no 回答。变换方法和否定句一样，先看谓语：
 
-- Do you love me?
-- Is he your teacher?
+| 谓语 | 方法 | 陈述句 → 一般疑问句 | 简略回答 |
+| --- | --- | --- | --- |
+| 含 be 动词 | be 提到句首 | He is a student. → **Is** he a student? | Yes, he is. / No, he isn't. |
+| 含助动词或情态动词 | 助动词或情态动词提到句首 | You can swim. → **Can** you swim? | Yes, I can. / No, I can't. |
+| 只有实义动词 | 句首加 Do / Does / Did，实义动词还原为原形 | She likes tea. → **Does** she **like** tea? | Yes, she does. / No, she doesn't. |
+
+简略回答用助动词，不重复实义动词：Yes, she does. ✓ / Yes, she likes. ✗
 
 #### 特殊疑问句
 
 对句子中的某个成分提问，用特殊疑问词开头，不能用 yes / no 回答。
+
+结构是 **疑问词 + 一般疑问句**：
+
+- You like **tea**. → What do you like?
+- She lives **in Beijing**. → Where does she live?
+
+对主语提问时，疑问词本身就是主语，语序不变，也不加 do：**Tom** broke the window. → Who broke the window?
 
 | 疑问词 | 提问对象 | 例句 |
 | --- | --- | --- |

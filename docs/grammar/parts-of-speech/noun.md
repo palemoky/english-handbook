@@ -11,6 +11,28 @@
 | 具体名词 | 可数与不可数都有 | car、book、water |
 | 抽象名词 | 大多不可数 | time、hope、love、anger |
 
+## 不可数名词的计量
+
+不可数名词不能直接加数词或 a / an，要借助表示单位的量词：
+
+| 量词 | 搭配 |
+| --- | --- |
+| a piece of | paper、bread、advice、news、information、furniture |
+| a cup of | tea、coffee |
+| a glass of | water、milk、juice |
+| a bottle of | water、wine |
+| a bowl of | rice、soup |
+| a slice of | bread、cake |
+| a loaf of | bread |
+| a bag of | sugar、rice |
+| a bar of | chocolate、soap |
+
+- 表示复数时，变化的是量词：two cups of tea、three pieces of paper
+- 有些词在中文里可以数，在英语里却是不可数名词，要特别注意：advice（建议）、information（信息）、news（新闻）、furniture（家具）、homework（作业）、luggage / baggage（行李）、equipment（设备）
+    - a piece of advice ✓ / an advice ✗
+    - much information ✓ / many informations ✗
+- 修饰不可数名词的数量词：much、little、a little、a lot of、a great deal of，见[不定代词](pronoun.md#不定代词)
+
 ## 复数
 
 ### 规则变化
