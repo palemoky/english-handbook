@@ -1,5 +1,24 @@
 # 动词
 
+## 分类
+
+| 类别 | 说明 | 示例 |
+| --- | --- | --- |
+| 及物动词 | 后面需要接宾语 | I **love** music. |
+| 不及物动词 | 后面不接宾语 | The baby **cried**. |
+| 系动词 | 连接主语和表语，作用类似编程中的赋值：把后面的内容“赋给”主语 | She **is** a teacher. / It **looks** good. |
+| 助动词、情态动词 | 帮助谓语动词表达时态、语态、语气，见[情态动词](../verbs/modals.md) | I **can** swim. |
+| 使役动词 | 让某人做某事 | 见下表 |
+
+使役动词：
+
+| 动词 | 含义 | 示例 |
+| --- | --- | --- |
+| make | 迫使……做…… | She made me cry. |
+| have | 给……任务/责任 | I'll have him call you back. |
+| get | 说服/鼓励……做…… | I got him to help me. |
+| let | 允许……做…… | Let me help you. |
+
 ## be、have、do 的人称变化 {#be-have-do}
 
 <table>
@@ -15,6 +34,12 @@
 </tbody>
 </table>
 
+- am 用于第一人称单数（I）
+- is 用于第三人称单数（he、she、it）以及单数名词、不可数名词
+- are 用于第二人称（you）以及所有复数
+
+缩写 's 有三种可能：is（He's reading.）、has（He's finished.）、所有格（Tom's book），需要根据上下文判断。
+
 ## 第三人称单数
 
 一般现在时中，只有主语是第三人称单数时动词才变形，其余人称都用动词原形：
@@ -24,12 +49,39 @@
 | I / you / we / they | do | don't |
 | he / she / it | v.+s/es | doesn't |
 
-1. he/she/it 后的动词 + s/es（以 -s, -sh, -ch, -x, -o 结尾的动词，通常加 -es）。
-2. everyone/someone/nobody 等被当作一个整体看，因此适用于第三人称单数规则。
+第三人称单数主语包括：he、she、it，单个人名、地名，单数可数名词，不可数名词。everyone/someone/nobody 等被当作一个整体看，也适用于第三人称单数规则。
+
+| 规则 | 示例 |
+| --- | --- |
+| 一般直接加 -s | work → works |
+| 以 s、x、ch、sh、o 结尾，加 -es | watch → watches，go → goes |
+| 辅音字母 + y 结尾，变 y 为 i 再加 -es | study → studies |
+| 不规则变化 | have → has，be → is |
+
+- The cat runs. / The cats run.
+- He likes apples. / They like apples.
+
+## 现在分词和动名词
+
+两者形式相同，都是动词 + -ing，用法区别见[非谓语动词](../verbs/non-finite.md)。
+
+| 规则 | 示例 |
+| --- | --- |
+| 一般直接加 -ing | read → reading |
+| 以不发音的 e 结尾，去 e 加 -ing | write → writing |
+| 以 ie 结尾，变 ie 为 y 加 -ing | lie → lying |
+| 重读闭音节，末尾只有一个辅音字母，双写该字母加 -ing | run → running |
+
+## 过去式和过去分词
+
+| 形式 | 用法 |
+| --- | --- |
+| 过去式 | 单独作谓语，表示过去某个时间发生的动作 |
+| 过去分词 | 非谓语形式，表示被动或完成：与 have 构成完成时，与 be 构成被动语态 |
 
 ## 不规则动词
 
-按原形、过去式、过去分词的异同分为四类。
+按原形、过去式、过去分词的异同分为五类。
 
 ### AAA 型
 
@@ -57,6 +109,7 @@
 <tr><th>原形</th><th>过去式</th><th>过去分词</th></tr>
 </thead>
 <tbody>
+<tr><td>become</td><td>became</td><td>become</td></tr>
 <tr><td>come</td><td>came</td><td>come</td></tr>
 <tr><td>run</td><td>ran</td><td>run</td></tr>
 </tbody>
@@ -71,6 +124,8 @@
 <tr><th>原形</th><th>过去式</th><th>过去分词</th></tr>
 </thead>
 <tbody>
+<tr><td>babysit</td><td colspan="2">babysat</td></tr>
+<tr><td>bend</td><td colspan="2">bent</td></tr>
 <tr><td>bring</td><td colspan="2">brought</td></tr>
 <tr><td>buy</td><td colspan="2">bought</td></tr>
 <tr><td>build</td><td colspan="2">built</td></tr>
@@ -102,15 +157,29 @@
 </tbody>
 </table>
 
-### ABC 型
+### AAB 型
 
-三种形式各不相同。
+过去式与原形相同。
 
 <table>
 <thead>
 <tr><th>原形</th><th>过去式</th><th>过去分词</th></tr>
 </thead>
 <tbody>
+<tr><td colspan="2">beat</td><td>beaten</td></tr>
+</tbody>
+</table>
+
+### ABC 型
+
+三种形式各不相同，过去分词大多以 -en / -n 结尾。
+
+<table>
+<thead>
+<tr><th>原形</th><th>过去式</th><th>过去分词</th></tr>
+</thead>
+<tbody>
+<tr><td>arise</td><td>arose</td><td>arisen</td></tr>
 <tr><td>be</td><td>was/were</td><td>been</td></tr>
 <tr><td>begin</td><td>began</td><td>begun</td></tr>
 <tr><td>break</td><td>broke</td><td>broken</td></tr>
@@ -119,11 +188,13 @@
 <tr><td>draw</td><td>drew</td><td>drawn</td></tr>
 <tr><td>drive</td><td>drove</td><td>driven</td></tr>
 <tr><td>eat</td><td>ate</td><td>eaten</td></tr>
+<tr><td>fly</td><td>flew</td><td>flown</td></tr>
 <tr><td>give</td><td>gave</td><td>given</td></tr>
 <tr><td>go</td><td>went</td><td>gone</td></tr>
 <tr><td>know</td><td>knew</td><td>known</td></tr>
 <tr><td>lie（躺）</td><td>lay</td><td>lain</td></tr>
 <tr><td>see</td><td>saw</td><td>seen</td></tr>
+<tr><td>sing</td><td>sang</td><td>sung</td></tr>
 <tr><td>speak</td><td>spoke</td><td>spoken</td></tr>
 <tr><td>take</td><td>took</td><td>taken</td></tr>
 <tr><td>wear</td><td>wore</td><td>worn</td></tr>
