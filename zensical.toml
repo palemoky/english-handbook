@@ -14,6 +14,7 @@ nav = [
       { "句子结构概览" = "grammar/sentence-structure/README.md" },
       { "句子成分" = "grammar/sentence-structure/elements.md" },
       { "五大基本句型" = "grammar/sentence-structure/patterns.md" },
+      { "句子类型" = "grammar/sentence-structure/types.md" },
     ] },
     { "动词体系" = [
       { "动词体系概览" = "grammar/verbs/README.md" },
