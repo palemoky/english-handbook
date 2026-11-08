@@ -36,7 +36,7 @@
 | 亿 | one hundred million |
 | 十亿 | **billion** |
 
-百位和十位之间要加 and，如 one hundred and one（101）、nine hundred and ninety-nine（999）。
+英式英语中，百位和十位之间要加 and，如 one hundred and one（101）、nine hundred and ninety-nine（999）；美式英语中这个 and 常常省略。
 
 ## 序数词
 

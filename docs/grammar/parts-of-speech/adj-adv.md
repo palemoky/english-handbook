@@ -153,27 +153,35 @@
 
 ### 表示频率
 
-按频率从高到低排列。
+按频率从高到低排列，百分比只是大致的参考。
 
-| 频率 | 副词 | 含义 |
-| --- | --- | --- |
-| 100% | always | 总是 |
-| 90% | usually | 常常 |
-| 80% | generally | 通常 |
-| 70% | often | 经常 |
-| 60% | frequently | 频繁 |
-| 30% | sometimes | 有时 |
-| 10% | occasionally | 偶尔 |
-| 5% | seldom | 很少 |
-| 1% | hardly | 几乎不 |
-| 0.1% | rarely | 罕见 |
-| 0% | never | 从不 |
+<table>
+<thead>
+<tr><th>频率</th><th>副词</th><th>含义</th></tr>
+</thead>
+<tbody>
+<tr><td>100%</td><td>always</td><td>总是</td></tr>
+<tr><td>90%</td><td>usually</td><td>常常</td></tr>
+<tr><td>80%</td><td>generally</td><td>通常</td></tr>
+<tr><td>70%</td><td>often</td><td>经常</td></tr>
+<tr><td>60%</td><td>frequently</td><td>频繁</td></tr>
+<tr><td>50%</td><td>sometimes</td><td>有时</td></tr>
+<tr><td>10%</td><td>occasionally</td><td>偶尔</td></tr>
+<tr><td rowspan="2">5%</td><td>seldom</td><td rowspan="2">很少</td></tr>
+<tr><td>rarely</td></tr>
+<tr><td>1%</td><td>hardly ever</td><td>几乎从不</td></tr>
+<tr><td>0%</td><td>never</td><td>从不</td></tr>
+</tbody>
+</table>
+
+- hardly 单独使用时是程度副词，意思是“几乎不”（I can hardly hear you.），表示频率时要说 hardly ever。
+- 频率副词一般放在 be 动词、助动词之后，实义动词之前：She is **always** late. / I **usually** get up at seven. / I have **never** been there.
 
 ### 表示速度与状态
 
 <table>
 <tbody>
-<tr><td rowspan="2">速度</td><td colspan="2">突然</td><td colspan="2">立刻</td></tr>
+<tr><td rowspan="2">速度</td><td colspan="2">突然</td><td>立刻</td><td>不久，马上</td></tr>
 <tr><td>abruptly</td><td>suddenly</td><td>immediately</td><td>shortly</td></tr>
 </tbody>
 </table>

@@ -11,16 +11,26 @@
 | 介词 | 时间 | 地点 | 方位 | 方式 | 活动、事件 | 交通工具 |
 | --- | --- | --- | --- | --- | --- | --- |
 | at | 具体的时刻、节日，如 at 7 o'clock、at night、at the weekend、at Christmas（整个节日期间） | 某个具体的位置（点），如 at the bus stop |  |  | 表示某人参加某个活动或事件，如 at a party |  |
-| on | 具体的某一天、日期，如 on Monday、on Christmas Day（节日当天） | 在表面上，如楼层 on the second floor | 表示二者相邻 | 电子产品，如 on the TV / radio / internet / screen |  | bus, train, plane, ship，并与 get on/off 搭配 |
-| in | 1. 一段时间，如年、月、季节、in the morning / afternoon / evening<br>2. 后跟一段时间，表示在多久之后，用于将来时 | 大地点，如城市、国家 |  | 1. 使用某种语言<br>2. in bed |  | car, taxi，并与 get in / get out of 搭配 |
-| to |  |  | 表示二者有间隔而不相邻 |  |  |  |
+| on | 具体的某一天、日期，如 on Monday、on Christmas Day（节日当天） | 在表面上，如楼层 on the second floor | 两地接壤，如 on the north of China | 电子产品，如 on the TV / radio / internet / screen |  | bus, train, plane, ship，并与 get on/off 搭配 |
+| in | 1. 一段时间，如年、月、季节、in the morning / afternoon / evening<br>2. 后跟一段时间，表示在多久之后，用于将来时 | 大地点，如城市、国家 in Beijing | 在某范围内部，如 in the north of China | 1. 使用某种语言<br>2. in bed |  | car, taxi，并与 get in / get out of 搭配 |
+| to |  |  | 两地不接壤，有间隔，如 to the east of China |  |  |  |
 | by | 不晚于某个时间，如 by Friday |  |  |  |  | 以什么方式乘坐交通工具，如 by bus |
-| after | 后跟具体的时刻或从句，表示在什么时刻之后，用一般时态 |  |  |  |  |  |
-| since | 后跟具体时刻或从句，表示自从什么时候起一直到现在 |  |  |  |  |  |
-| for | 后跟一段时间，表示总共有多长之久 |  |  |  |  |  |
-| with |  |  |  | 使用某种工具或方法 |  |  |
+| after | 后跟具体的时刻或从句，表示在什么时刻之后，用一般时态，如 after school |  |  |  |  |  |
+| since | 后跟具体时刻或从句，表示自从什么时候起一直到现在，常与现在完成时连用，如 since 2020 |  |  |  |  |  |
+| for | 后跟一段时间，表示总共有多长之久，如 for two hours |  |  |  |  |  |
+| with |  |  |  | 使用某种工具或方法，如 with a pen |  |  |
 
 </div>
+
+表示方位时，in、on、to 的区别：
+
+| 表达 | 含义 | 示例 |
+| --- | --- | --- |
+| in the east of | 在某范围 **内部** 的东部 | Shanghai is in the east of China. |
+| on the east of | 在外部，与之 **接壤** | Mongolia is on the north of China. |
+| to the east of | 在外部，**不接壤** | Japan is to the east of China. |
+
+on the east of 的说法主要见于国内教材，英语母语者实际上多用 to the east of 同时表示接壤和不接壤两种情况。
 
 时间短语中含有 last、next、this、every 时，不用介词：I saw him last week.（不说 in last week）
 

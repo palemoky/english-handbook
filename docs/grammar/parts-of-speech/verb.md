@@ -131,7 +131,7 @@
 <tr><td>build</td><td colspan="2">built</td></tr>
 <tr><td>feel</td><td colspan="2">felt</td></tr>
 <tr><td>find</td><td colspan="2">found</td></tr>
-<tr><td>get</td><td colspan="2">got</td></tr>
+<tr><td>get</td><td colspan="2">got（美式过去分词常用 gotten）</td></tr>
 <tr><td>have</td><td colspan="2">had</td></tr>
 <tr><td>hear</td><td colspan="2">heard</td></tr>
 <tr><td>hold</td><td colspan="2">held</td></tr>

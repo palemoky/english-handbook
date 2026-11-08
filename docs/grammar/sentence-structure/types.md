@@ -53,7 +53,10 @@
 - He is your teacher, isn't he? (Yes, he is.)
 - He isn't your teacher, is he? (No, he isn't.)
 
-must 表示“必须”时，反义疑问部分用 mustn't 或 needn't：He must study hard, mustn't he?
+含 must 的反义疑问句要看 must 的含义：
+
+- 表示“必须”时，附加部分一般用 needn't：You must go now, needn't you?
+- 表示推测时，附加部分根据 must 后面的动词来定：He must be tired, isn't he? / She must have left, hasn't she?
 
 ### 感叹句
 

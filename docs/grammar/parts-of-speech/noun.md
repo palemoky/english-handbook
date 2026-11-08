@@ -128,18 +128,20 @@
 <tr><td>Japan</td><td>Japanese</td><td>Japanese</td></tr>
 <tr><td>Korea</td><td>Korean</td><td>Korean</td></tr>
 <tr><td>Thailand</td><td>Thai</td><td>Thai</td></tr>
-<tr><td>France</td><td>French</td><td>French</td><td rowspan="4">欧洲国家</td></tr>
+<tr><td>France</td><td>French</td><td>French</td><td rowspan="5">欧洲国家</td></tr>
 <tr><td>Germany</td><td>German</td><td>German</td></tr>
 <tr><td>Italy</td><td>Italian</td><td>Italian</td></tr>
 <tr><td>Spain</td><td>Spanish</td><td>Spanish</td></tr>
-<tr><td>America</td><td>American</td><td>English</td><td rowspan="9">被殖民国家，国民以 -an 结尾</td></tr>
+<tr><td>Russia</td><td>Russian</td><td>Russian</td></tr>
+<tr><td>America<br>（the United States）</td><td>American</td><td>English</td><td rowspan="8">被殖民国家，国民以 -an 结尾</td></tr>
 <tr><td>Canada</td><td>Canadian</td><td>English, French</td></tr>
 <tr><td>Brazil</td><td>Brazilian</td><td>Portuguese</td></tr>
 <tr><td>Mexico</td><td>Mexican</td><td>Spanish</td></tr>
 <tr><td>South Africa</td><td>South African</td><td>English 等多种官方语言</td></tr>
 <tr><td>Egypt</td><td>Egyptian</td><td>Arabic</td></tr>
 <tr><td>Australia</td><td>Australian</td><td>English</td></tr>
-<tr><td>Russia</td><td>Russian</td><td>Russian</td></tr>
 <tr><td>Argentina</td><td>Argentine</td><td>Spanish</td></tr>
 </tbody>
 </table>
+
+美国的正式国名是 the United States（of America），简称 the US / the USA；America 在口语中也常用来指美国。
