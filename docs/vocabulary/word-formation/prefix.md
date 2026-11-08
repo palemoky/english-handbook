@@ -60,6 +60,7 @@
 </table>
 
 - 多数情况下，希腊语前缀与希腊语词根搭配，拉丁语前缀与拉丁语词根搭配：tetrahedron（四面体）、quadrilateral（四边形）。
+- 月份 September 到 December 来自拉丁语的 7 到 10，现在却是 9 到 12 月，原因见[数词 · 为什么 September 是 9 月](../../grammar/parts-of-speech/numeral.md#为什么-september-是-9-月)。
 - 公制单位中，deci-、centi-、milli- 分别表示十分之一、百分之一、千分之一（decimeter、centimeter、millimeter）；deca-、hecto-、kilo- 分别表示十倍、百倍、千倍（kilometer）。
 
 ## 前缀表

@@ -96,6 +96,50 @@
 | 4 > 3 | 4 is more than 3 |
 | 2 < 3 | 2 is less than 3 |
 
+## 月份
+
+| 月份 | 缩写 | 由来 |
+| --- | --- | --- |
+| January | Jan. | 来自罗马神话中的门神 Janus，他掌管开始和结束，有前后两张面孔，一张回望过去，一张展望未来 |
+| February | Feb. | 来自古罗马的净化节 Februa，每年 2 月中旬举行 |
+| March | Mar. | 来自古罗马战神 Mars |
+| April | Apr. | 一般认为来自拉丁语 aperire（打开），指春天万物生长、花朵开放 |
+| May | May | 来自古罗马女神 Maia |
+| June | Jun. | 来自古罗马女神 Juno |
+| July | Jul. | 原名 Quintilis，意为“第五”。为纪念出生在这个月的凯撒，改为他的名字 Julius |
+| August | Aug. | 原名 Sextilis，意为“第六”。元老院为纪念屋大维在这个月取得的多次胜利，改为他的尊号 Augustus |
+| September | Sep. / Sept. | 拉丁语 septem，意为“第七” |
+| October | Oct. | 拉丁语 octo，意为“第八” |
+| November | Nov. | 拉丁语 novem，意为“第九” |
+| December | Dec. | 拉丁语 decem，意为“第十” |
+
+月份名称首字母要大写，前面用介词 in：in January。具体某一天用 on：on January 1st。
+
+### 为什么 September 是 9 月
+
+September 到 December 的名字分别是“第七”到“第十”，现在却是 9 月到 12 月，原因要从罗马历法的演变说起：
+
+1. **十个月的历法**：相传最早的罗马历（约公元前 8 世纪）一年只有 10 个月，从 March 开始，到 December 结束，共 304 天，冬季的约 60 天不归入任何月份。此时 September 确实是第七个月，July 和 August 也还叫 Quintilis（第五）和 Sextilis（第六）。
+2. **增加 1、2 月**：约公元前 713 年，罗马国王努马在年末增加了 January 和 February，一年变为 12 个月、约 355 天，并不时插入闰月来与季节对齐。
+3. **新年改到 1 月**：公元前 153 年起，执政官在 1 月 1 日就职，January 逐渐成为一年的开始。原来排在第七到第十的月份就此变成了第九到第十二，名字却保留了下来。
+4. **儒略历**：公元前 46 年，凯撒颁布儒略历，一年 365 天，每四年在 2 月加一个闰日，各月的天数基本就是今天的样子。之后 Quintilis 和 Sextilis 先后改名为 July 和 August。
+5. **格里历**：1582 年，教皇格里高利十三世修正了闰年规则（整百年份必须能被 400 整除才是闰年），这就是今天通用的公历。
+
+## 星期
+
+| 星期 | 缩写 | 词源 | 含义 |
+| --- | --- | --- | --- |
+| Monday | Mon. | 古英语 | 月亮之日 |
+| Tuesday | Tue. / Tues. | 古英语 | Tyr（北欧战神）之日 |
+| Wednesday | Wed. | 古英语 | Wōden（即 Odin，北欧神话中地位最高的主神）之日 |
+| Thursday | Thu. / Thurs. | 古英语 | Thor（北欧雷神）之日 |
+| Friday | Fri. | 古英语 | Frigg（主神 Wōden 之妻，司掌婚姻与爱情）之日 |
+| Saturday | Sat. | 古英语，源自罗马神话 | Saturn（农神）之日 |
+| Sunday | Sun. | 古英语 | 太阳之日 |
+
+- 古罗马人用日、月和五大行星为一周七天命名，英语沿用了这个传统，但把其中四天换成了日耳曼神话（与北欧神话同源）中对应的神，只有 Saturday 保留了罗马神的名字。
+- 星期名称首字母要大写，前面用介词 on：on Monday。
+
 ## 数字的其他读法
 
 ### 时间
