@@ -11,7 +11,14 @@
 | 将来（future） | shall/will do | shall/will be doing | shall/will have done | shall/will have been doing |
 | 过去将来（future in the past） | should/would do | should/would be doing | should/would have done | should/would have been doing |
 
-完成时中的 done 指过去分词。
+完成时中的 done 指过去分词。被动语态的 16 种形式见[语态](voice.md)。
+
+判断该用哪种时态，可以按这个顺序：
+
+1. **定位时间**：根据时间状语等关键词，确定是过去、现在、将来还是过去将来
+2. **确定状态**：根据关键词确定是一般、进行、完成还是完成进行
+3. **主谓一致**：根据主语的人称和单复数确定助动词和动词形式
+4. **不规则动词**：检查过去式、过去分词是否是[不规则变化](../parts-of-speech/verb.md#不规则动词)
 
 ## 过去
 
@@ -27,7 +34,7 @@
 
 | | 一般现在时 | 现在进行时 | 现在完成时 | 现在完成进行时 |
 | --- | --- | --- | --- | --- |
-| 形式 | do/does<br>动词原形，第三人称单数 +s | am/are/is doing<br>正在进行或即将发生计划内的事 | have/has done<br>过去与现在的联系 | have/has been doing<br>从过去开始并持续到现在 |
+| 形式 | do/does<br>动词原形，第三人称单数 +s | am/are/is doing<br>正在进行或即将发生计划内的事 | have/has done<br>过去与现在的联系（因果关系） | have/has been doing<br>从过去开始并持续到现在（持续、重复、刚刚结束） |
 | 频率 | ★★★★★ | ★★★★ | ★★★★★ | ★★★ |
 | 高频场景 | 1. 习惯性动作<br>2. 客观真理<br>3. 固定安排 | 1. 正在进行的动作<br>2. 临时安排<br>3. 逐渐变化 | 1. 过去动作影响现在<br>2. 未指明时间的经历<br>3. 持续到现在的状态 | 强调动作的持续性或反复性 |
 | 信号词 | always, usually, every day, often, never | now, at the moment, currently, Look! | just, already, yet, ever, never, since, for | all day/week, recently, lately, how long |
@@ -39,11 +46,18 @@
 
 | | 一般将来时 | 将来进行时 | 将来完成时 | 将来完成进行时 |
 | --- | --- | --- | --- | --- |
-| 形式 | shall/will do | shall/will be doing<br>be 无需变形 | shall/will have done<br>较少用 | shall/will have been doing<br>较少用，常用一般将来时或将来完成时代替 |
+| 形式 | shall/will do<br>be going to do | shall/will be doing<br>be 无需变形 | shall/will have done<br>较少用 | shall/will have been doing<br>较少用，常用一般将来时或将来完成时代替 |
 | 频率 | ★★★★ | ★★ | ★★ | ★ |
 | 高频场景 | 1. 即时决定<br>2. 预测未来<br>3. 承诺/威胁 | 1. 将来特定时间正在进行的动作<br>2. 礼貌询问计划 | 将来某时之前完成的动作 | 强调将来动作的持续性 |
 | 信号词 | tomorrow, next year, in the future, probably | at this time next week, from 3-5pm | by 2030, by the time, before Friday | for 10 years, by next month |
 | 例句 | It will rain later. | I'll be flying to Paris at 8am. | She'll have graduated by June. | By 2030, he'll have been working here for a decade. |
+
+### will 与 be going to
+
+| | will | be going to |
+| --- | --- | --- |
+| 侧重 | 临时决定、预测、意愿 | 事先的计划和安排，或有迹象表明即将发生 |
+| 例句 | I'll help you with that. | I'm going to start a new project next month.<br>Look at those clouds! It's going to rain. |
 
 ## 过去将来
 
