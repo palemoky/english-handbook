@@ -2,9 +2,123 @@
 
 英语中最常用的 46 个后缀。后缀通常决定单词的词性，含义列中的「～」代表词根或词干。词源和词性缩写见[符号说明](README.md#符号说明)。
 
+## 后缀与词性
+
+后缀是判断词性最直接的线索。有些后缀只构成一种词性（如 -ness 一定是名词），有些后缀能构成多种词性（如 -ate 可以是形容词、名词或动词）。下图中，圆圈重叠的部分就是能构成多种词性的后缀：
+
+<div class="suffix-venn-wrap">
+<svg class="suffix-venn" viewBox="0 0 985 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="后缀与词性韦恩图：共 46 个后缀，按能构成的词性归入形容词、名词、动词、副词四个集合及其交集"><style>.suffix-venn{width:100%;height:auto;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"PingFang SC","Microsoft YaHei",sans-serif}.suffix-venn .sfx{fill:var(--md-default-fg-color,#1f2937);text-anchor:middle;dominant-baseline:middle}.suffix-venn .set-name{font-weight:700;font-size:25px;text-anchor:middle;dominant-baseline:middle}</style>
+<ellipse cx="300" cy="330" rx="280" ry="195" fill="#3b82f6" fill-opacity="0.14" stroke="#3b82f6" stroke-width="2"/>
+<ellipse cx="650" cy="320" rx="310" ry="210" fill="#16a34a" fill-opacity="0.14" stroke="#16a34a" stroke-width="2"/>
+<ellipse cx="470" cy="530" rx="180" ry="85" fill="#e11d48" fill-opacity="0.14" stroke="#e11d48" stroke-width="2"/>
+<ellipse cx="225" cy="105" rx="160" ry="65" fill="#d97706" fill-opacity="0.14" stroke="#d97706" stroke-width="2"/>
+<text class="set-name" x="70" y="330" fill="#3b82f6">形容词</text>
+<text class="set-name" x="650" y="128" fill="#16a34a">名词</text>
+<text class="set-name" x="470" y="600" fill="#e11d48">动词</text>
+<text class="set-name" x="110" y="95" fill="#d97706">副词</text>
+<text class="sfx" x="225" y="75" font-size="18">-wise</text>
+<text class="sfx" x="255" y="152" font-size="18">-ward</text>
+<text class="sfx" x="180" y="215" font-size="18">-able/-ible</text>
+<text class="sfx" x="290" y="215" font-size="18">-less</text>
+<text class="sfx" x="180" y="271" font-size="18">-ish</text>
+<text class="sfx" x="290" y="271" font-size="18">-ous</text>
+<text class="sfx" x="180" y="328" font-size="18">-ly</text>
+<text class="sfx" x="290" y="328" font-size="18">-ive</text>
+<text class="sfx" x="180" y="384" font-size="18">-some</text>
+<text class="sfx" x="290" y="384" font-size="18">-ed</text>
+<text class="sfx" x="180" y="440" font-size="18">-y</text>
+<text class="sfx" x="462" y="215" font-size="18">-ic</text>
+<text class="sfx" x="462" y="245" font-size="18">-ory</text>
+<text class="sfx" x="462" y="275" font-size="18">-ary</text>
+<text class="sfx" x="462" y="305" font-size="18">-al/-ial/-ical/-ual</text>
+<text class="sfx" x="462" y="335" font-size="18">-ar/-ular/-icular</text>
+<text class="sfx" x="462" y="365" font-size="18">-ant</text>
+<text class="sfx" x="462" y="395" font-size="18">-ent</text>
+<text class="sfx" x="462" y="425" font-size="18">-ful</text>
+<text class="sfx" x="464" y="464" font-size="18" font-weight="700">-ate</text>
+<text class="sfx" x="372" y="492" font-size="18">-en</text>
+<text class="sfx" x="470" y="543" font-size="18">-ize/-ise</text>
+<text class="sfx" x="470" y="570" font-size="18">-fy/-ify/-efy</text>
+<text class="sfx" x="645" y="200" font-size="18">-ion</text>
+<text class="sfx" x="756" y="200" font-size="18">-ity/-ty/-ety</text>
+<text class="sfx" x="868" y="200" font-size="18">-ment</text>
+<text class="sfx" x="645" y="237" font-size="18">-ness</text>
+<text class="sfx" x="756" y="237" font-size="18">-ance/-ancy</text>
+<text class="sfx" x="868" y="237" font-size="18">-ist</text>
+<text class="sfx" x="645" y="274" font-size="18">-er</text>
+<text class="sfx" x="756" y="274" font-size="18">-ence/-ency</text>
+<text class="sfx" x="868" y="274" font-size="18">-or</text>
+<text class="sfx" x="645" y="311" font-size="18">-ee</text>
+<text class="sfx" x="756" y="311" font-size="18">-our/-or</text>
+<text class="sfx" x="868" y="311" font-size="18">-ism</text>
+<text class="sfx" x="645" y="347" font-size="18">-logy</text>
+<text class="sfx" x="756" y="347" font-size="18">-ship</text>
+<text class="sfx" x="868" y="347" font-size="18">-hood</text>
+<text class="sfx" x="645" y="384" font-size="18">-dom</text>
+<text class="sfx" x="756" y="384" font-size="18">-age</text>
+<text class="sfx" x="868" y="384" font-size="18">-ure</text>
+<text class="sfx" x="645" y="421" font-size="18">-ery</text>
+<text class="sfx" x="756" y="421" font-size="18">-ry</text>
+<text class="sfx" x="868" y="421" font-size="18">-th</text>
+<text class="sfx" x="645" y="458" font-size="18">-ite</text>
+<text class="sfx" x="756" y="458" font-size="18">-y</text>
+</svg>
+</div>
+
 ## 词性变化关系
 
-把单词的后缀换掉，就能把它变成另一种词性。比如形容词 **active** 把后缀 -ive 换成 -ity，就变成了名词 **activity**。
+把单词的后缀换掉，就能把它变成另一种词性。比如形容词 **active** 把后缀 -ive 换成 -ity，就变成了名词 **activity**。下图中箭头的方向就是词性变化的方向：
+
+<div class="suffix-conv-wrap">
+<svg class="suffix-conv" viewBox="0 0 990 770" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="后缀词性变化关系图：13 组后缀在形容词、名词、动词之间的转换，箭头指向变化后的词性"><style>.suffix-conv{width:100%;height:auto;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"PingFang SC","Microsoft YaHei",sans-serif}.suffix-conv .sfx{fill:var(--md-default-fg-color,#1f2937);font-size:20px;text-anchor:middle;dominant-baseline:central}.suffix-conv .col-name{font-weight:700;font-size:25px;text-anchor:middle}.suffix-conv .arrow{stroke:var(--md-default-fg-color--light,#6b7280);stroke-width:2}.suffix-conv .arrow-head{fill:var(--md-default-fg-color--light,#6b7280)}</style>
+<defs><marker id="pos-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path class="arrow-head" d="M0,0 L10,5 L0,10 z"/></marker></defs>
+<text class="col-name" x="165" y="38" fill="#3b82f6">形容词</text>
+<line x1="105" y1="58" x2="225" y2="58" stroke="#3b82f6" stroke-width="3" stroke-linecap="round"/>
+<text class="col-name" x="495" y="38" fill="#16a34a">名词</text>
+<line x1="435" y1="58" x2="555" y2="58" stroke="#16a34a" stroke-width="3" stroke-linecap="round"/>
+<text class="col-name" x="825" y="38" fill="#e11d48">动词</text>
+<line x1="765" y1="58" x2="885" y2="58" stroke="#e11d48" stroke-width="3" stroke-linecap="round"/>
+<line class="arrow" x1="257" y1="90" x2="365" y2="90" marker-end="url(#pos-arrow)"/>
+<rect x="85" y="74" width="160" height="32" rx="8" fill="#3b82f6" fill-opacity="0.12" stroke="#3b82f6" stroke-opacity="0.6"/><text class="sfx" x="165" y="90">-able/-ible</text>
+<rect x="379" y="74" width="232" height="32" rx="8" fill="#16a34a" fill-opacity="0.12" stroke="#16a34a" stroke-opacity="0.6"/><text class="sfx" x="495" y="90">-ability/-ibility</text>
+<line class="arrow" x1="245" y1="136" x2="401" y2="136" marker-end="url(#pos-arrow)"/>
+<rect x="97" y="120" width="136" height="32" rx="8" fill="#3b82f6" fill-opacity="0.12" stroke="#3b82f6" stroke-opacity="0.6"/><text class="sfx" x="165" y="136">-ant/-ent</text>
+<rect x="415" y="120" width="160" height="32" rx="8" fill="#16a34a" fill-opacity="0.12" stroke="#16a34a" stroke-opacity="0.6"/><text class="sfx" x="495" y="136">-ance/-ence</text>
+<line class="arrow" x1="209" y1="182" x2="401" y2="182" marker-end="url(#pos-arrow)"/>
+<rect x="133" y="166" width="64" height="32" rx="8" fill="#3b82f6" fill-opacity="0.12" stroke="#3b82f6" stroke-opacity="0.6"/><text class="sfx" x="165" y="182">-al</text>
+<rect x="415" y="166" width="160" height="32" rx="8" fill="#16a34a" fill-opacity="0.12" stroke="#16a34a" stroke-opacity="0.6"/><text class="sfx" x="495" y="182">-ity/-ation</text>
+<line class="arrow" x1="209" y1="228" x2="413" y2="228" marker-end="url(#pos-arrow)"/>
+<rect x="133" y="212" width="64" height="32" rx="8" fill="#3b82f6" fill-opacity="0.12" stroke="#3b82f6" stroke-opacity="0.6"/><text class="sfx" x="165" y="228">-ic</text>
+<rect x="427" y="212" width="136" height="32" rx="8" fill="#16a34a" fill-opacity="0.12" stroke="#16a34a" stroke-opacity="0.6"/><text class="sfx" x="495" y="228">-ism/-ity</text>
+<line class="arrow" x1="215" y1="274" x2="413" y2="274" marker-end="url(#pos-arrow)"/>
+<rect x="127" y="258" width="76" height="32" rx="8" fill="#3b82f6" fill-opacity="0.12" stroke="#3b82f6" stroke-opacity="0.6"/><text class="sfx" x="165" y="274">-ive</text>
+<rect x="427" y="258" width="136" height="32" rx="8" fill="#16a34a" fill-opacity="0.12" stroke="#16a34a" stroke-opacity="0.6"/><text class="sfx" x="495" y="274">-ion/-ity</text>
+<line class="arrow" x1="215" y1="320" x2="401" y2="320" marker-end="url(#pos-arrow)"/>
+<rect x="127" y="304" width="76" height="32" rx="8" fill="#3b82f6" fill-opacity="0.12" stroke="#3b82f6" stroke-opacity="0.6"/><text class="sfx" x="165" y="320">-ous</text>
+<rect x="415" y="304" width="160" height="32" rx="8" fill="#16a34a" fill-opacity="0.12" stroke="#16a34a" stroke-opacity="0.6"/><text class="sfx" x="495" y="320">-ion/-osity</text>
+<line class="arrow" x1="775" y1="388" x2="559" y2="388" marker-end="url(#pos-arrow)"/>
+<rect x="787" y="372" width="76" height="32" rx="8" fill="#e11d48" fill-opacity="0.12" stroke="#e11d48" stroke-opacity="0.6"/><text class="sfx" x="825" y="388">-ate</text>
+<rect x="445" y="372" width="100" height="32" rx="8" fill="#16a34a" fill-opacity="0.12" stroke="#16a34a" stroke-opacity="0.6"/><text class="sfx" x="495" y="388">-ation</text>
+<line class="arrow" x1="775" y1="434" x2="583" y2="434" marker-end="url(#pos-arrow)"/>
+<rect x="787" y="418" width="76" height="32" rx="8" fill="#e11d48" fill-opacity="0.12" stroke="#e11d48" stroke-opacity="0.6"/><text class="sfx" x="825" y="434">-ify</text>
+<rect x="421" y="418" width="148" height="32" rx="8" fill="#16a34a" fill-opacity="0.12" stroke="#16a34a" stroke-opacity="0.6"/><text class="sfx" x="495" y="434">-ification</text>
+<line class="arrow" x1="775" y1="480" x2="571" y2="480" marker-end="url(#pos-arrow)"/>
+<rect x="787" y="464" width="76" height="32" rx="8" fill="#e11d48" fill-opacity="0.12" stroke="#e11d48" stroke-opacity="0.6"/><text class="sfx" x="825" y="480">-ize</text>
+<rect x="433" y="464" width="124" height="32" rx="8" fill="#16a34a" fill-opacity="0.12" stroke="#16a34a" stroke-opacity="0.6"/><text class="sfx" x="495" y="480">-ization</text>
+<line class="arrow" x1="427" y1="548" x2="247" y2="548" marker-end="url(#pos-arrow)"/>
+<rect x="439" y="532" width="112" height="32" rx="8" fill="#16a34a" fill-opacity="0.12" stroke="#16a34a" stroke-opacity="0.6"/><text class="sfx" x="495" y="548">-or/-er</text>
+<rect x="97" y="532" width="136" height="32" rx="8" fill="#3b82f6" fill-opacity="0.12" stroke="#3b82f6" stroke-opacity="0.6"/><text class="sfx" x="165" y="548">-ory/-ary</text>
+<line class="arrow" x1="445" y1="594" x2="229" y2="594" marker-end="url(#pos-arrow)"/>
+<rect x="457" y="578" width="76" height="32" rx="8" fill="#16a34a" fill-opacity="0.12" stroke="#16a34a" stroke-opacity="0.6"/><text class="sfx" x="495" y="594">-ist</text>
+<rect x="115" y="578" width="100" height="32" rx="8" fill="#3b82f6" fill-opacity="0.12" stroke="#3b82f6" stroke-opacity="0.6"/><text class="sfx" x="165" y="594">-istic</text>
+<line class="arrow" x1="539" y1="662" x2="779" y2="662" marker-end="url(#pos-arrow)"/>
+<rect x="463" y="646" width="64" height="32" rx="8" fill="#16a34a" fill-opacity="0.12" stroke="#16a34a" stroke-opacity="0.6"/><text class="sfx" x="495" y="662">-th</text>
+<rect x="793" y="646" width="64" height="32" rx="8" fill="#e11d48" fill-opacity="0.12" stroke="#e11d48" stroke-opacity="0.6"/><text class="sfx" x="825" y="662">-en</text>
+<line class="arrow" x1="757" y1="730" x2="259" y2="730" marker-end="url(#pos-arrow)"/>
+<rect x="769" y="714" width="112" height="32" rx="8" fill="#e11d48" fill-opacity="0.12" stroke="#e11d48" stroke-opacity="0.6"/><text class="sfx" x="825" y="730">-e/-ate</text>
+<rect x="85" y="714" width="160" height="32" rx="8" fill="#3b82f6" fill-opacity="0.12" stroke="#3b82f6" stroke-opacity="0.6"/><text class="sfx" x="165" y="730">-able/-ible</text>
+</svg>
+</div>
 
 ### 形容词 → 名词
 
