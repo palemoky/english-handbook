@@ -239,3 +239,32 @@ div.language-css.highlight::after { content: "CSS"; }
 
 /* 清除浮动辅助 */
 h2, h3, h4, h5, h6 { clear: both; }
+
+/* 跨列内容水平居中，体现“同形/同义”的合并效果 */
+.md-typeset table:not([class]) :is(td, th)[colspan] {
+  text-align: center;
+}
+
+/* 紧凑表格：列数多时收窄内边距，避免横向溢出 */
+.md-typeset .compact-table table:not([class]) :is(td, th) {
+  padding: 0.6em 0.7em;
+  white-space: nowrap;
+}
+
+/* 密集表格：列多且内容较长时，缩小字号和内边距，允许换行 */
+.md-typeset .dense-table table:not([class]) {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  font-size: 0.68rem;
+}
+
+.md-typeset .dense-table table:not([class]) th:first-child {
+  width: 4.5em;
+}
+
+.md-typeset .dense-table table:not([class]) :is(td, th) {
+  padding: 0.6em 0.7em;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
