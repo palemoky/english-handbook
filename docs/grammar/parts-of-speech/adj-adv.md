@@ -119,17 +119,17 @@
 
 ### 分类
 
-| 类别 | 示例 |
-| --- | --- |
-| 地点 | here、there、home、upstairs、downstairs、anywhere、everywhere、nowhere、somewhere、abroad、elsewhere |
-| 位置 | above、below、down、up、out、in、across、back、along、over、round、around、away、near、off、on、inside、outside、past |
-| 方式 | carefully、properly、anxiously、suddenly、normally、fast、calmly、politely、proudly、softly、warmly、slowly、badly |
-| 程度 | nearly、rather、very、too、fully、almost、extremely、absolutely、slightly、simply、awfully、deeply、really、perfectly、quite、much |
-| 疑问 | how、when、where、why |
-| 强调（强调形容词或副词） | completely、perfectly、really、totally、mainly、only |
-| 连接（引导名词性从句或连接并列结构） | how、when、where、why、then、however、therefore |
-| 关系（引导定语从句） | when、where、why |
-| 句子（修饰整个句子） | actually、personally、certainly、definitely |
+| 类别 | 常见副词 | 例句 |
+| --- | --- | --- |
+| 地点 | here、there、home、upstairs、downstairs、anywhere、everywhere、nowhere、somewhere、abroad、elsewhere | Come **here**. |
+| 位置 | above、below、down、up、out、in、across、back、along、over、round、around、away、near、off、on、inside、outside、past | The sun goes **down**. |
+| 方式 | carefully、properly、anxiously、suddenly、normally、fast、calmly、politely、proudly、softly、warmly、slowly、badly | Drive **carefully**. |
+| 程度 | nearly、rather、very、too、fully、almost、extremely、absolutely、slightly、simply、awfully、deeply、really、perfectly、quite、much | I'm **very** tired. |
+| 疑问 | how、when、where、why | **Why** are you late? |
+| 强调（强调形容词或副词） | completely、perfectly、really、totally、mainly、only | That's **totally** wrong. |
+| 连接（引导名词性从句或连接并列结构） | how、when、where、why、then、however、therefore | I don't know **how** it works. |
+| 关系（引导定语从句） | when、where、why | the day **when** we met |
+| 句子（修饰整个句子） | actually、personally、certainly、definitely | **Actually**, I disagree. |
 
 ### 表示时间
 
